@@ -1,0 +1,10 @@
+table {
+  background-color: white;
+}
+
+#s1{color:red;}
+#s2{color: blue;}
+#s3{background-color: yellow;}
+#s4{color:red;background-color:yellow}
+#s5{color:blue;background-color:yellow}
+#s6{background-color:yellow}
