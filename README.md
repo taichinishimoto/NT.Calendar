@@ -36,7 +36,7 @@ table {
 #s5{color:blue;background-color:yellow}
 #s6{background-color:yellow}
 
-<script type="text/javascript">
+<script type="05101.js">
 function gety(y){
   var y0="(日)";
   var y1="(月)";
