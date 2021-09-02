@@ -237,7 +237,7 @@ function Calendar(x){
     <input type="button" value="12月" onclick="Calendar(12)">
   </body>
 </html>
-  
+<style>
 table {
   background-color: white;
 }
@@ -248,4 +248,4 @@ table {
 #s4{color:red;background-color:yellow}
 #s5{color:blue;background-color:yellow}
 #s6{background-color:yellow}
-
+</style>
