@@ -36,6 +36,7 @@ table {
 #s5{color:blue;background-color:yellow}
 #s6{background-color:yellow}
 
+<script type="text/javascript">
 function gety(y){
   var y0="(日)";
   var y1="(月)";
@@ -246,3 +247,4 @@ function Calendar(x){
   document.write("</tr>");
   document.write("</table>");
 }
+</script>
