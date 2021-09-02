@@ -4,9 +4,7 @@
     <title>05101</title>
     <link rel="stylesheet" href="05101.css">
   </head>
-  
-   <script src="05101.js">
-    
+<script src="05101.js">    
 function gety(y){
   var y0="(日)";
   var y1="(月)";
@@ -217,11 +215,20 @@ function Calendar(x){
   document.write("</tr>");
   document.write("</table>");
 }
-    
-    </script>
-</html>
-  
-  <body>
+</script>
+<style>
+table {
+  background-color: white;
+}
+
+#s1{color:red;}
+#s2{color: blue;}
+#s3{background-color: yellow;}
+#s4{color:red;background-color:yellow}
+#s5{color:blue;background-color:yellow}
+#s6{background-color:yellow}
+</style>
+<body>
     <br>
     <input type="button" value="1月" onclick="Calendar(1)">
     <input type="button" value="2月" onclick="Calendar(2)">
@@ -237,17 +244,5 @@ function Calendar(x){
     <input type="button" value="10月" onclick="Calendar(10)">
     <input type="button" value="11月" onclick="Calendar(11)">
     <input type="button" value="12月" onclick="Calendar(12)">
-  </body>
-    
-<style>
-table {
-  background-color: white;
-}
-
-#s1{color:red;}
-#s2{color: blue;}
-#s3{background-color: yellow;}
-#s4{color:red;background-color:yellow}
-#s5{color:blue;background-color:yellow}
-#s6{background-color:yellow}
-</style>
+</body>
+</html>
