@@ -3,8 +3,7 @@
   <head>
     <meta charset="utf-8">
     <title>05101</title>
-
-        <link rel="stylesheet" href="05101.css">
+    <link rel="stylesheet" href="05101.css">
   </head>
   <body>
     <br>
