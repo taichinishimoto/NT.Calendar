@@ -23,12 +23,11 @@
     <input type="button" value="11月" onclick="Calendar(11)">
     <input type="button" value="12月" onclick="Calendar(12)">
   </body>
-
+</html>
+  
 table {
   background-color: white;
 }
-
-</html>
 
 #s1{color:red;}
 #s2{color: blue;}
